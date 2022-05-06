@@ -26,7 +26,7 @@
 ![9](https://github.com/raihantaufiq/LATIHAN11DPBO2022/blob/main/screenshot/Screenshot%20(9).png?raw=true)
 ![10](https://github.com/raihantaufiq/LATIHAN11DPBO2022/blob/main/screenshot/Screenshot%20(10).png?raw=true)
 
-- Ubah Status Peminjaman<br />
+- Ubah Status Pengembalian<br />
 ![11](https://github.com/raihantaufiq/LATIHAN11DPBO2022/blob/main/screenshot/Screenshot%20(11).png?raw=true)
 
 - Delete Peminjaman<br />
